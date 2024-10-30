@@ -78,7 +78,7 @@
 
     <div v-else class="text-center mt-4">
       <p class="text-lg text-gray-600">
-        No blog posts available. Start creating one!
+        Please log in to check out blog posts or create your own!
       </p>
     </div>
   </div>
